@@ -1,2 +1,4 @@
 # fishtank-vinnovateit
-*winning team project*
+
+
+Helps you generate song lyrics based on artists you like. 
